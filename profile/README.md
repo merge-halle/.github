@@ -2,11 +2,11 @@
 
 | 이름 | 역할 | GitHub | 기술 스택 | 이메일 |  
 |------|------|--------|-----------|-------|
-| 김민수 | Backend | [Doritosch](https://github.com/Doritosch) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | example@gmail.com |
+| 김민수 | Backend | [Doritosch](https://github.com/Doritosch) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | als000825@naver.com |
 | 김보성 | Frontend | [NangManBo](https://github.com/NangManBo) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | kimbosung22@naver.com |
 | 이창의 | Backend | [changuii](https://github.com/changuii) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  | example@naver.com |
 | 이상현 | Frontend, PM | [idealHyun](https://github.com/idealHyun) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | lsh9736@gmail.com |
-| 한동근 | Backend, PM | [l0o0lv](https://github.com/l0o0lv) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | srb4719@gmail.com |
+| 한동근 | Backend, PM | [l0o0lv](https://github.com/l0o0lv) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | ehdrms001030@naver.com |
 
 
 # 프로젝트 개요
