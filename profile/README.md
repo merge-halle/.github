@@ -2,10 +2,10 @@
 
 | 이름 | 역할 | GitHub | 기술 스택 | 이메일 |  
 |------|------|--------|-----------|-------|
-| 김민수 | Backend | [Doritosch](https://github.com/Doritosch) | | example@gmail.com |
-| 김보성 | Frontend | [NangManBo](https://github.com/NangManBo) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | example@gmail.com |
+| 김민수 | Backend | [Doritosch](https://github.com/Doritosch) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | example@gmail.com |
+| 김보성 | Frontend | [NangManBo](https://github.com/NangManBo) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | kimbosung22@naver.com |
 | 이창의 | Backend | [changuii](https://github.com/changuii) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  | example@naver.com |
-| 이상현 | Frontend, PM | [idealHyun](https://github.com/idealHyun) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | qzqzcaraz00@gmail.com |
+| 이상현 | Frontend, PM | [idealHyun](https://github.com/idealHyun) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | lsh9736@gmail.com |
 | 한동근 | Backend, PM | [l0o0lv](https://github.com/l0o0lv) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | srb4719@gmail.com |
 
 
@@ -23,11 +23,11 @@
 ## 스크린샷
 
 ### 1. 리뷰 작성 폼 생성
-![](./images/1.png)
+![](./images/1.gif)
 리뷰를 작성하는데 필요한 설문을 생성합니다.
 
 ### 2. 리뷰 작성 폼을 이용한 리뷰 작성기
-![](./images/2.png)
+![](./images/2.gif)
 앞에서 생성한 리뷰 설문을 이용하여 사용자에게 맞는 리뷰를 작성합니다.
 
 
